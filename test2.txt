@@ -1,0 +1,18 @@
+https://medium.com/@ryanchenkie_40935/angular-authentication-using-route-guards-bf7a4ca13ae3
+
+https://codeburst.io/using-angular-route-guard-for-securing-routes-eabf5b86b4d1
+
+
+
+
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) (.Net SqlClient Data Provider)
+
+
+SELECT @@SERVERNAME AS 'Server Name'
+
+
+
+
+git Commands
+
+https://www.digitalocean.com/community/tutorials/how-to-push-an-existing-project-to-github
